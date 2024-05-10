@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aboutme</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous"/>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+   <link rel="stylesheet" href="aboutme.css">
+</head>
+<body>
+
+    <div class="top_bg_container">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-md-6 order-md-1 pt-5">
+                    <div class="d-flex flex-row mb-3">
+                    <h2 class="mb-3">Facts</h2>
+                    <h1 class="mb-3">About me</h1>
+                    <div class="mb-3 d-md-none">
+                        <img src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-about-me-img.png" class="portfolio-about-me-img.png">
+                    </div>
+                    </div>
+                    <p class="mb-5">
+                        My name is Bharath sai,and I am currently
+                        looking for a job in Frontend development.I
+                        have 3 years of experience working as a 
+                        Frontend Developer. I have a bachelor's degree
+                        in Electronics and Communication.People 
+                        find me to be an update, self-motivated Team 
+                        player with excellent communication skills
+                        <br />
+                        <br />
+                        I am a dedicated person with a family of four.I 
+                        enjoy reading,and the knowledge and 
+                        perspective that my reading gives me have
+                        strengthend my teaching skills and 
+                        presentation abilities.
+                    </p>
+                </div>
+                <div class="col-12 col-md-6 d-none d-md-inline order-md-0 mt-md-5 mb-md-5">
+                    <img src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-about-me-img.png" class="portfolio-about-me-img.png">
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="bottom_bg_container">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 pt-5 pb-5 d-md-none">
+                    <h2>Skills: </h2>
+                    <div class="d-flex flex-row">
+                        <div class="card_container text-center pt-2 mt-1 mb-3 mr-2">
+                            <img src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-skills-html-img.png" class="portfolio-skills-html-img.png">
+                            <h3 class="mt-1">HTML</h3>
+                        </div>
+                        <div class="card_container text-center pt-2 mt-1 mb-3 ml-2">
+                            <img src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-skills-css-img.png" class="portfolio-skills-css-img.png">
+                            <h3 class="mt-1">CSS</h3>
+                        </div>
+                    </div>
+                    <div class="d-flex flex-row">
+                        <div class="card_container text-center pt-2 mt-1 mb-3 mr-2">
+                            <img src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-skills-bootstrap-img.png" class="portfolio-skills-bootstrap-img.png">
+                            <h3 class="mt-1">BootStrap</h3>
+                        </div>
+                        <div class="card_container text-center pt-2 mt-1 mb-3 ml-2">
+                            <img src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-skills-js-img.png" class="portfolio-skills-js-img.png">
+                            <h3 class="mt-1">JS</h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="bottom_bg_container p-5 d-none d-md-block">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h2 class="mb-4">Skills:</h2>
+                    <div class="d-flex flex-row shadow"> 
+                        <div class="card_container1 text-center pt-3 mt-1 mr-4">
+                        <img src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-skills-html-img.png" class="portfolio-skills-html-img.png">
+                        <h3 class="mt-1">HTML</h3>
+                    </div>
+                    <div class="card_container1 text-center pt-3 pt-1 mr-4">
+                        <img src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-skills-css-img.png" class="portfolio-skills-css-img.png">
+                        <h3 class="mt-1">CSS</h3>
+                    </div>
+                </div>
+                <div class="d-flex flex-row">
+                    <div class="card_container1 text-center pt-3 pt-1 mr-4">
+                        <img src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-skills-bootstrap-img.png" class="portfolio-skills-bootstrap-img.png">
+                        <h3 class="mt-1">BootStrap</h3>
+                    </div>
+                    <div class="card_container1 text-center pt-3 pt-1 mr-4">
+                        <img src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-skills-js-img.png" class="portfolio-skills-js-img.png">
+                        <h3 class="mt-1">JS</h3>
+                    </div>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>
+
+
+.css
+
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.top_bg_container{
+    background-color: #323f4b;
+
+}
+
+h2{
+    color: #cced00;
+
+}
+
+h1{
+    color: #ffffff;
+
+}
+
+p{
+    color: #9aa5b1;
+}
+
+.bottom_bg_container{
+    background-color: #1f2933;
+}
+
+.card_container{
+    height: 100px;
+    width: 120px;
+    background-color: #323f4b;
+    border-radius: 12px;
+
+}
+
+h3{
+    color: #ffffff;
+    font-size: 15px;
+
+}
+
+.card_container{
+    height: 140px;
+    width: 160px;
+    background-color: #323f4b;
+    border-radius: 12px;
+    
+}
